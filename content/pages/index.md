@@ -14,8 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Hello It's me Sheikh saqib And I'm a Business CoachWelcome! I'm Insha
+      Khan, a digital entrepreneur and business coach. Coach you to Earn 15k-20k
+      monthly through trusted social media work. Let's turn your aspirations
+      into financial success with expert guidance.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
@@ -84,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
