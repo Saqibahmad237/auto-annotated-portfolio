@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/contact.jpg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: left-top
   backgroundRepeat: repeat
