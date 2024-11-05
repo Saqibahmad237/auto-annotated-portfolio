@@ -4,7 +4,7 @@ title: Home
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/IMG_20240909_115450_599.jpg
+  url: /images/contact.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
