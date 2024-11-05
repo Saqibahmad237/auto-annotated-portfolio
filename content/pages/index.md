@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "Hello It's me Sheikh saqib And I'm a Business Coach.\_ \_                  Welcome! I'm Sheikh saqib,a digital entrepreneur and business coach. Coach you to Earn 15k-20k monthly through trusted social media work. Let's turn your aspirations into financial success with expert guidance.   "
+    title: "Hello It's me Sheikh saqib And I'm a Business Coach.\_ \_                                             Welcome! I'm Sheikh saqib,a digital entrepreneur and business coach. Coach you to Earn 15k-20k monthly through trusted social media work. Let's turn your aspirations into financial success with expert guidance.   "
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
