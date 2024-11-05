@@ -1,0 +1,27 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Sheikh saqib ",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Entrepreneur "
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": {
+                    "$$ref": "stackbit_asset_id:static:public/images/IMG_20240909_115450_599.jpg",
+                    "$$type": "__asset_model"
+                },
+                "altText": "altText of the image",
+                "caption": "Caption of the image",
+                "elementId": ""
+            },
+            "thumbnail": "images/image-block-sheikh-saqib-e031.png"
+        }
+    ]
+}
