@@ -7,7 +7,7 @@ backgroundImage:
   url: /images/contact.jpg
   backgroundSize: cover
   backgroundPosition: left-top
-  backgroundRepeat: no-repeat
+  backgroundRepeat: repeat
   opacity: 34
 sections:
   - elementId: ''
