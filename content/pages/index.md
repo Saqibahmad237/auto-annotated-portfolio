@@ -6,7 +6,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/contact.jpg
   backgroundSize: cover
-  backgroundPosition: center
+  backgroundPosition: left-top
   backgroundRepeat: no-repeat
   opacity: 34
 sections:
